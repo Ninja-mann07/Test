@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Description_HTML_File.
+<Head>
+<Body>
+"<["text"]<ends with?=line_brake_for_row_&_cloum.>"
